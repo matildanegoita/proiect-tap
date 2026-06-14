@@ -1,0 +1,7 @@
+# .NET
+backend/bin/
+backend/obj/
+
+# OS
+.DS_Store
+Thumbs.db
